@@ -23,5 +23,5 @@
 
 ## 🎮 Demo
 مثال:
-> <img src="./assets/imgs/image.png" width="300" alt="Screenshot">
+> <img src="https://raw.githubusercontent.com/bakror/hungman-game/refs/heads/main/assets/image.png" width="300" alt="Screenshot">
 
