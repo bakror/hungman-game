@@ -1,0 +1,17 @@
+
+---
+
+## 🔗 Live Demo
+> ضع لينك المشروع هنا  
+مثال:
+https://your-demo-link.com
+
+---
+
+## 📂 Installation & Run
+Clone المشروع وشغّل الملف:
+
+```bash
+git clone https://github.com/yourusername/hangman-game
+cd hangman-game
+open index.html
